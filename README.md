@@ -1,4 +1,4 @@
-# MelodyGen
+# PianoFormer
 
 ## Train
 Comment out inference method for traininng purpose
